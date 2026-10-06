@@ -1,0 +1,23 @@
+body {
+  background-color:#696869;
+  min-height: 100vh;
+}
+.page{
+  background-color:aquamarine;
+  min-height: 80vh;
+}
+header {
+  background-color:blueviolet;
+}
+nav {
+  background-color:aliceblue;
+}
+main {
+  background-color:blue;
+}
+aside{
+  background-color:cornflowerblue;
+}
+footer{
+  background-color:rgb(99, 210, 210);
+}
