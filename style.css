@@ -3,14 +3,14 @@ body {
   min-height: 100vh;
 }
 .page{
-  background-color:aquamarine;
+  background-color:rgb(126, 201, 176);
   min-height: 80vh;
 }
 header {
-  background-color:blueviolet;
+  background-color:rgb(145, 91, 196);
 }
 nav {
-  background-color:aliceblue;
+  background-color:rgb(60, 87, 110);
 }
 main {
   background-color:blue;
